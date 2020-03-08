@@ -1,0 +1,13 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 6E19-2BAF
+
+ Directory of E:\Jenkins\MyProject
+
+18-02-2020  20:03    <DIR>          .
+18-02-2020  20:03    <DIR>          ..
+18-02-2020  18:28               384 index.html
+18-02-2020  18:29                 7 test1.txt
+18-02-2020  20:03                 0 test2.txt
+               3 File(s)            391 bytes
+               2 Dir(s)  425,233,596,416 bytes free
+testing
